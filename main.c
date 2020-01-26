@@ -14,9 +14,9 @@ int main(int argc, char const *argv[])
 
     for (i = 1; i <= 9; i++)
     {
-        printf("")
+        printf(" %d |", i);
     }
-    
+    printf("")
 
 
     return 0;
