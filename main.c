@@ -2,7 +2,7 @@
 
 int main(int argc, char const *argv[])
 {
-    printf("   ");
+    printf("   |");
 
     int i,j;
 
