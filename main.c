@@ -8,10 +8,10 @@ int main(int argc, char const *argv[])
 
     for (i = 1; i <= 9; i++)
     {
-        printf("%3d", &i);
+        printf("%3d", i);
     }
     
-    
+
 
     return 0;
 }
