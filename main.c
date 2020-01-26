@@ -17,7 +17,7 @@ int main(int argc, char const *argv[])
         printf(" %d |", i);
         for (j = 1; j <= 9; j++)
         {
-            printf("%3d")
+            printf("%3d", i * j);
         }
         
     }
