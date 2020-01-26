@@ -15,9 +15,9 @@ int main(int argc, char const *argv[])
     for (i = 1; i <= 9; i++)
     {
         printf(" %d |", i);
-        for (j = 1; i < count; i++)
+        for (j = 1; j <= 9; j++)
         {
-            /* code */
+            printf("%3d")
         }
         
     }
