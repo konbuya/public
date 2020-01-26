@@ -19,7 +19,7 @@ int main(int argc, char const *argv[])
         {
             printf("%3d", i * j);
         }
-        
+        printf("\n");
     }
 
 
