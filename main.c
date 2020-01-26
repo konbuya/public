@@ -6,9 +6,9 @@ int main(int argc, char const *argv[])
 
     int i,j;
 
-    for (i = 0; i < count; i++)
+    for (i = 1; i <= 9; i++)
     {
-        /* code */
+        /
     }
     
     return 0;
